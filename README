@@ -1,0 +1,14 @@
+###### Twitterclient 1.0.0 ######
+
+(c) 2011-2011 Sebastian Graebitz (graebitz@fh-brandenburg.de)
+
+-------------------------------------------------------------------------------
+
+Dieser Twitterclient zeigt die Timeline von @sqs_fhb an und beantwortet automatisch alle offen
+Nachrichten für den Account: BINF_51_SQ_GS, wenn man nach dem Abruf der Timeline die "1" drückt.
+Mit Eingabe der "0" beendet sich das Programm.
+Ich habe das Programm in seinem Grundgerüst von Dennis Schmidt kopiert und dann jediglich modifiziert. 
+Ich war schon froh, dass github nun reibungslos bei mir funktioniert ;)
+Der zweite Account "pRoVieH", der das Projekt das erste mal commited hat, ist ebenfalls von mir.
+Nach der erfolglosen Einrichtung habe ich einfach einen neuen Account angelegt und die Konfiguration
+nocheinmal durchgefuehrt.
